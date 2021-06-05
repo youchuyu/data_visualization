@@ -1,0 +1,51 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "924713",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "10882924",
+      "name": "直方图",
+      "font_class": "zhifangtu",
+      "unicode": "e8b5",
+      "unicode_decimal": 59573
+    },
+    {
+      "icon_id": "10884128",
+      "name": "平行坐标系",
+      "font_class": "pinghangzuobiaoxi",
+      "unicode": "e8be",
+      "unicode_decimal": 59582
+    },
+    {
+      "icon_id": "10884469",
+      "name": "极坐标散点图",
+      "font_class": "jizuobiaosandiantu",
+      "unicode": "e8c1",
+      "unicode_decimal": 59585
+    },
+    {
+      "icon_id": "15346613",
+      "name": "放大",
+      "font_class": "fangda",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "15346619",
+      "name": "缩小",
+      "font_class": "suoxiao",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    }
+  ]
+}
